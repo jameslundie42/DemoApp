@@ -42,3 +42,6 @@ end
 
 # To use debugger
 # gem 'debugger'
+
+# To use therubyracer for Javascript
+gem 'therubyracer', :require => 'v8'
